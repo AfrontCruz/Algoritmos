@@ -1,0 +1,7 @@
+1500
+10
+15000
+La multiplicación NO es correcta
+
+
+Tiempo en segundos: 0.000335
